@@ -11,7 +11,7 @@
 개발 인원 : 3명<br />
 개발 환경 : JDK1.8, Tomcat 9.0.10, Oracle 11g<br />
 분산 환경 : GitHub<br />
-사용 언어 : Java, Jsp, Oracle, Dom, Jquery, HTML, css<br />
+사용 언어 : Java, Jsp, Oracle, Javascript + DOM, Jquery, HTML, css<br />
 담당 역할 : 프로젝트 기획, 데이터 구조와 설계, 화면 아키텍쳐 구성, 네이버 검색 API 연동 , 사이트 구축<br />
 <br />
 #### 2차 프로젝트명 GodPing ([github](https://github.com/rhqh12/godping))<br />
